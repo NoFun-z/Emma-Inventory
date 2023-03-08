@@ -1,6 +1,6 @@
 # Emma-Inventory
 
-c# and SQL program
+C#, HTML/CSS/JS, Bootstrap and SQL program
 
 This project allows users to navigate to different pages to maintain the system’s datasets using RAD/ADO approach
 The user can filter related data in the inventory, customer details and their orders
